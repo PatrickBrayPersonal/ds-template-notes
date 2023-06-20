@@ -33,7 +33,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "1. Kanban/1. Python.md"
+                "file": "1. Kanban/3. Other.md"
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Kanban/1. Python.md",
+                "file": "1. Kanban/3. Other.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Kanban/1. Python.md",
+                "file": "1. Kanban/3. Other.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Kanban/1. Python.md"
+                "file": "1. Kanban/3. Other.md"
               }
             }
           },
@@ -185,10 +185,11 @@
   },
   "active": "954aa652e998737d",
   "lastOpenFiles": [
-    "1. Kanban/3. Other.md",
     "1. Kanban/1. Python.md",
-    "1. Kanban/0. Documentation.md",
+    "1. Kanban/3. Other.md",
     "1. Kanban/2. AWS.md",
+    "2. Tickets/1. Python/0. Fix integration tests.md",
+    "1. Kanban/0. Documentation.md",
     "2. Tickets/2. AWS/Sync Data to S3.md",
     "4. Reports/Example Slides.md",
     "3. Meetings/JW 2023-05-31.md",
